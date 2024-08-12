@@ -6,6 +6,19 @@ $tertiary-color: #0C9FDA;
 
 $primary-font-family: "Open Sans", sans-serif;
 
-html {
+html,body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: $primary-font-family;
+}
+
+body {
+  overflow: -moz-scrollbars-none; /* Firefox */
+  -ms-overflow-style: none;  /* Internet Explorer y Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* Safari y Chrome */
 }
