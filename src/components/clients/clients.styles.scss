@@ -1,0 +1,67 @@
+@import "../../App.scss";
+
+.clients-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 40px;
+  flex-direction: column; /* Default to column for mobile-first approach */
+}
+
+.group-image {
+  display: block;
+  width: 100%;
+}
+
+.individual-images {
+  display: none; /* Initially hide individual images */
+}
+
+.clients-text {
+  max-width: 400px;
+  text-align: right;
+  font-size: 20px;
+  font-weight: 200;
+  color: $primary-color;
+}
+
+.clients-text p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  .clients-container {
+    flex-direction: row; 
+  }
+
+  .group-image {
+    display: block;
+    width: 100%;
+    max-width: 600px; 
+  }
+
+  .individual-images {
+    display: none; 
+  }
+}
+
+@media (max-width: 767px) {
+  .group-image {
+    display: none; 
+  }
+
+  .individual-images {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+  }
+
+  .individual-images img {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+}

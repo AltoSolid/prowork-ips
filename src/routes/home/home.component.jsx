@@ -1,6 +1,7 @@
 import HeroSection from '../../components/heroSection/heroSection.component';
 import OurServices from '../../components/ourServices/ourServices.component';
 import HighlightedServices from '../../components/highlightedServices/highlightedServices.component';
+import Clients from '../../components/clients/clients.component';
 
 import './home.styles.scss';
 
@@ -10,6 +11,7 @@ const Home = () => {
       <HeroSection />
       <OurServices />
       <HighlightedServices />
+      <Clients />
     </div>
   );
 }
