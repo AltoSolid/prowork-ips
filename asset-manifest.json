@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/prowork-ips/static/css/main.fc393f54.css",
+    "main.js": "/prowork-ips/static/js/main.f97dff22.js",
+    "static/js/453.5754b18c.chunk.js": "/prowork-ips/static/js/453.5754b18c.chunk.js",
+    "static/media/clients-group-img.svg": "/prowork-ips/static/media/clients-group-img.63aec35cc896fcb5ba8300cf2dfe250d.svg",
+    "static/media/header-logo.svg": "/prowork-ips/static/media/header-logo.6bd40b3d3a455d4eaa091e6f045daf65.svg",
+    "static/media/Home-img.webp": "/prowork-ips/static/media/Home-img.1e2c2c5d7849f97cc82d.webp",
+    "static/media/form-img.webp": "/prowork-ips/static/media/form-img.2df21b77237eccc92b8f.webp",
+    "static/media/footer-logo.svg": "/prowork-ips/static/media/footer-logo.24c4a5c4eb3a4e16ed8cd15d8c31011d.svg",
+    "static/media/music-therapy-icon.svg": "/prowork-ips/static/media/music-therapy-icon.a0821fb873de3409bb026cb812eb5b8c.svg",
+    "static/media/mental-health-icon.svg": "/prowork-ips/static/media/mental-health-icon.02e75618e977d19dc937ac6133bf6b07.svg",
+    "static/media/client1-img.webp": "/prowork-ips/static/media/client1-img.a2412366af9eada566f7.webp",
+    "static/media/client2-img.webp": "/prowork-ips/static/media/client2-img.73455c97a47631904ad9.webp",
+    "static/media/consultation-icon.svg": "/prowork-ips/static/media/consultation-icon.ff360655e5d5edd863f2d7c95bfa18c7.svg",
+    "static/media/location-footer.svg": "/prowork-ips/static/media/location-footer.14746224cf9b046c797bee1719518ef9.svg",
+    "static/media/exam-icon.svg": "/prowork-ips/static/media/exam-icon.62fc64d9f8c27286d76a541e30fa9fb6.svg",
+    "static/media/client3-img.webp": "/prowork-ips/static/media/client3-img.37d175118a3373e264a0.webp",
+    "static/media/location-2.svg": "/prowork-ips/static/media/location-2.8d7dd4fa91873e30d6d229a0a69658ca.svg",
+    "static/media/cronometer-icon.svg": "/prowork-ips/static/media/cronometer-icon.c233c0b6ab9eda59e647da6cdff19e41.svg",
+    "static/media/microscope-icon.svg": "/prowork-ips/static/media/microscope-icon.0943b0974061e6b9cc41dc738a720beb.svg",
+    "static/media/electrocardiogram-icon.svg": "/prowork-ips/static/media/electrocardiogram-icon.404f7dd303a8cd96e8a30f0be887d323.svg",
+    "static/media/cloud-access-icon.svg": "/prowork-ips/static/media/cloud-access-icon.10628c14cadc91eae47b6f8a1189a487.svg",
+    "static/media/clock-footer.svg": "/prowork-ips/static/media/clock-footer.2be9d716e0747016fb407ebf72b3c992.svg",
+    "static/media/phone-footer.svg": "/prowork-ips/static/media/phone-footer.32e1fd97311447bb5e72e49a2e525ef3.svg",
+    "static/media/eye-exam-icon.svg": "/prowork-ips/static/media/eye-exam-icon.3a530728bc8837e24e1d2e7860e58c74.svg",
+    "static/media/spirometry-icon.svg": "/prowork-ips/static/media/spirometry-icon.825ab22dba6ac4561e7111b01c0984e9.svg",
+    "static/media/ambulance-icon.svg": "/prowork-ips/static/media/ambulance-icon.9a78d495e6291a6b94a823a39ac0427f.svg",
+    "static/media/email-footer.svg": "/prowork-ips/static/media/email-footer.6ca9c6ef4159889f5cf898f52773eb5f.svg",
+    "static/media/medical-certificate-icon.svg": "/prowork-ips/static/media/medical-certificate-icon.b1b8a3693a74edaa31abe17bd06cb918.svg",
+    "index.html": "/prowork-ips/index.html",
+    "main.fc393f54.css.map": "/prowork-ips/static/css/main.fc393f54.css.map",
+    "main.f97dff22.js.map": "/prowork-ips/static/js/main.f97dff22.js.map",
+    "453.5754b18c.chunk.js.map": "/prowork-ips/static/js/453.5754b18c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc393f54.css",
+    "static/js/main.f97dff22.js"
+  ]
+}

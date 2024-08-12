@@ -1,0 +1,15 @@
+{
+  "short_name": "Proworking",
+  "name": "Pro Working",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x85",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
