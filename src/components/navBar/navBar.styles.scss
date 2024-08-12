@@ -18,3 +18,9 @@
 .company-portal-link:hover {
   color: $tertiary-color;
 }
+
+@media (max-width: 767px) {
+  .company-portal-link {
+    font-size: 16px;
+  }
+}

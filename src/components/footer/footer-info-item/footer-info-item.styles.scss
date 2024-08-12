@@ -18,7 +18,7 @@
 
 .footer-info-item-title {
   color: $secondary-color;
-  font-size: 32px;
+  font-size: 28px;
   margin-bottom: 20px;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   text-transform: uppercase;
@@ -28,11 +28,15 @@
   display: flex;
   flex-direction: column;
   margin-left: 16px;
+
+  p {
+    margin: 4px 0px;
+  }
 }
 
 .info-item__text {
   color: $secondary-color;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
   max-width: 360px;
   white-space: pre-line;
