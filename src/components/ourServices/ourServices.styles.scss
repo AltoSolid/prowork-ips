@@ -1,0 +1,28 @@
+@import "../../App.scss";
+
+.our-services-container {
+  background-color: rgba(237, 249, 253, 1);
+  padding: 20px;
+  text-align: center;
+  height: 700px;
+}
+
+.our-services-title {
+  font-size: 48px;
+  color: $primary-color;
+  font-weight: 700;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.our-services-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+  justify-items: center;
+}
+
+@media (min-width: 800px) {
+  .our-services-group {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

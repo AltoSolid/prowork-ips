@@ -1,0 +1,29 @@
+@import "../../../App.scss";
+
+.service-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+  width: 176px;
+  height: 188px;
+  text-align: center;
+  border: 6px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.service-item:hover {
+  transform: translateY(-10px);
+}
+
+.service-item img {
+  max-width: 60px;
+  margin-bottom: 10px;
+}
+
+.service-item span {
+  font-size: 16px;
+  font-weight: 400;
+  color: $tertiary-color;
+}

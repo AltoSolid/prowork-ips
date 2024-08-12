@@ -1,0 +1,21 @@
+@import "../../../App.scss";
+
+
+.highlighted-service-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.highlighted-service-icon {
+  width: 60px;
+  height: 60px;
+  margin-right: 28px;
+}
+
+.highlighted-service-text {
+  color: $secondary-color;
+  max-width: 300px;
+  text-align: center;
+}
+
