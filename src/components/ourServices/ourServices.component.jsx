@@ -1,11 +1,11 @@
-import ExamenIcon from '../../assets/icons/exam-icon.svg';
-import MusicIcon from '../../assets/icons/music-therapy-icon.svg';
-import MonitorIcon from '../../assets/icons/electrocardiogram-icon.svg';
-import BrainIcon from '../../assets/icons/mental-health-icon.svg';
-import MicroscopeIcon from '../../assets/icons/microscope-icon.svg';
-import EyeExamIcon from '../../assets/icons/eye-exam-icon.svg';
-import SpirometryIcon from '../../assets/icons/spirometry-icon.svg';
-import ConsultationIcon from '../../assets/icons/consultation-icon.svg';
+import ExamenIcon from '../../assets/icons/examen.png';
+import MusicIcon from '../../assets/icons/terapia-musical.png';
+import MonitorIcon from '../../assets/icons/electrocardiograma.png';
+import BrainIcon from '../../assets/icons/salud-mental.png';
+import MicroscopeIcon from '../../assets/icons/microscopio.png';
+import EyeExamIcon from '../../assets/icons/examen-de-la-vista.png';
+import SpirometryIcon from '../../assets/icons/espirometria.png';
+import ConsultationIcon from '../../assets/icons/consulta.png';
 
 import ServicesItem from './servicesItem/servicesItem.component';
 

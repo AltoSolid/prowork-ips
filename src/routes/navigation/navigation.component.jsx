@@ -20,7 +20,8 @@ const Navigation = () => {
         allowClickAway
         avatar={HeaderLogo}
         statusMessage='Normalmente responde en 1 hora'
-        chatMessage="👋 ¡Hola! Gracias por contactar con Pro Working! Cómo podemos ayudarte en esta ocasión?"
+        chatMessage="👋 ¡Hola! Gracias por contactar con Pro Working! ¿En qué podemos ayudarte?"
+        placeholder='Escribe un mensaje'
       />
       <Outlet />
       <Footer />

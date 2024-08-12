@@ -1,4 +1,4 @@
-import placeIcon from '../../assets/icons/location-2.svg';
+import placeIcon from '../../assets/icons/ubicacion2.png';
 
 import './ourLocation.styles.scss';
 

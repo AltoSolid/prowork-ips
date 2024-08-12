@@ -11,7 +11,40 @@
 }
 
 .footer-container img {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
   margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.footer-info-item {
+  flex: 1;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.footer-info-item h4 {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+.footer-info-item .info-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 5px;
+}
+
+.footer-info-item img {
+  margin-right: 10px;
+  height: 24px;
+  width: 24px;
+}
+
+.footer-info-item .info-item span {
+  text-align: left;
+  font-size: 0.9em;
 }

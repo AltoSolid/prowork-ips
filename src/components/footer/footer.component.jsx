@@ -1,14 +1,13 @@
 import FooterLogo from '../../assets/logos/footer-logo.svg';
-import LocationIcon from '../../assets/icons/location-footer.svg';
-import ClockIcon from '../../assets/icons/clock-footer.svg';
-import PhoneIcon from '../../assets/icons/phone-footer.svg';
-import EmailIcon from '../../assets/icons/email-footer.svg';
+import LocationIcon from '../../assets/icons/ubicacion.png';
+import ClockIcon from '../../assets/icons/reloj-de-pared.png';
+import PhoneIcon from '../../assets/icons/llamar.png';
+import EmailIcon from '../../assets/icons/correo-electronico.png';
 
 import FooterInfoItem from "./footer-info-item/footer-info-item.component";
 
 import './footer.styles.scss';
 
-// TODO: Mochar el texto para que sea en dos líneas, a los que toque.
 const Footer = () => {
 
   const locationItems = [

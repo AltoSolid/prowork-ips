@@ -1,7 +1,7 @@
-import CronometerIcon from '../../assets/icons/cronometer-icon.svg';
-import AmbulanceIcon from '../../assets/icons/ambulance-icon.svg';
-import CertificateIcon from '../../assets/icons/medical-certificate-icon.svg';
-import CloudIcon from '../../assets/icons/cloud-access-icon.svg';
+import CronometerIcon from '../../assets/icons/cronografo.png';
+import AmbulanceIcon from '../../assets/icons/ambulancia.png';
+import CertificateIcon from '../../assets/icons/certificado-medico.png';
+import CloudIcon from '../../assets/icons/acceso-a-la-nube.png';
 
 import HighlightedService from './highlightedService/highlightedService.component';
 
