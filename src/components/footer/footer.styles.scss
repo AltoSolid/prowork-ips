@@ -1,8 +1,17 @@
-@import "../../App.scss"; 
+@import "../../App.scss";
 
 .footer-container {
   align-items: center;
   background-color: $primary-color;
   display: flex;
   justify-content: space-evenly;
+  padding: 20px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.footer-container img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
 }
