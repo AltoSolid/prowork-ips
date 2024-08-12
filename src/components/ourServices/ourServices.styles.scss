@@ -20,6 +20,12 @@
   justify-items: center;
 }
 
+@media (max-width: 767px) {
+  .our-services-title {
+    font-size: 28px;
+  }
+}
+
 @media (min-width: 800px) {
   .our-services-group {
     grid-template-columns: repeat(4, 1fr);
