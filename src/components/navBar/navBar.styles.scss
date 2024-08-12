@@ -1,0 +1,19 @@
+@import "../../App.scss"; 
+
+.navbar-container {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.company-portal-link {
+  color: $primary-color;
+  font-family: $primary-font-family;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.company-portal-link:hover {
+  color: $tertiary-color;
+}

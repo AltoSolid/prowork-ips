@@ -1,0 +1,37 @@
+@import "../../../App.scss"; 
+
+.footer-info-item-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 450px;
+  margin-top: 80px;
+}
+
+.info-item {
+  align-items: center;
+  display: flex;
+  margin: 16px 0px;
+}
+
+.footer-info-item-title {
+  color: $secondary-color;
+  font-size: 32px;
+  margin: 0px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  text-transform: uppercase;
+}
+
+.info-item__texts {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-item__text {
+  color: $secondary-color;
+  font-size: 24px;
+  font-weight: 400;
+  margin-left: 16px;
+  max-width: 360px;
+  white-space: pre-line;
+}

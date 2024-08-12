@@ -1,0 +1,8 @@
+@import "../../App.scss"; 
+
+.footer-container {
+  align-items: center;
+  background-color: $primary-color;
+  display: flex;
+  justify-content: space-evenly;
+}
